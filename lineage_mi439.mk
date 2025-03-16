@@ -31,6 +31,9 @@ PRODUCT_MANUFACTURER := Xiaomi
 # Boot animation resolution.
 TARGET_BOOT_ANIMATION_RES := 720
 
+# Gapps
+TARGET_DISABLES_GMS := true
+
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
