@@ -28,16 +28,18 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI SDM439
 PRODUCT_MANUFACTURER := Xiaomi
 
-# Gapps
+# Gapps.
 TARGET_DISABLES_GMS := true
 WITH_GMS := false
 
-# Misc
+# Misc.
 AXION_CAMERA_REAR_INFO := 12
 AXION_CAMERA_FRONT_INFO := 8
 AXION_MAINTAINER := 𝕲𝖊𝖗𝖒𝖆𝖓𝖎𝖚𝖒
 AXION_PROCESSOR := Qualcomm_Snapdragon_439
 
+# Recognized ROM As.
+ROM_FOLDER := lineage
 
 # Boot animation resolution.
 TARGET_BOOT_ANIMATION_RES := 720
