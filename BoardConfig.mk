@@ -227,3 +227,6 @@ include vendor/xiaomi/mi439/BoardConfigVendor.mk
 
 # QC common
 include device/qcom/common/BoardConfigQcom.mk
+
+# IDK?
+BUILD_BROKEN_DUP_SYSPROP := true
