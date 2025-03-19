@@ -30,6 +30,14 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 # Gapps
 TARGET_DISABLES_GMS := true
+WITH_GMS := false
+
+# Misc
+AXION_CAMERA_REAR_INFO := 12
+AXION_CAMERA_FRONT_INFO := 8
+AXION_MAINTAINER := 𝕲𝖊𝖗𝖒𝖆𝖓𝖎𝖚𝖒
+AXION_PROCESSOR := Qualcomm_Snapdragon_439
+
 
 # Boot animation resolution.
 TARGET_BOOT_ANIMATION_RES := 720
