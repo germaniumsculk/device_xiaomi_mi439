@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mi439.mk
+    $(LOCAL_DIR)/horizon_mi439.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mi439-user \
-    lineage_mi439-userdebug \
-    lineage_mi439-eng
+    horizon_mi439-user \
+    horizon_mi439-userdebug \
+    horizon_mi439-eng
