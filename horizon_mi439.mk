@@ -28,9 +28,8 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI SDM439
 PRODUCT_MANUFACTURER := Xiaomi
 
-# Gapps.
-TARGET_DISABLES_GMS := true
-WITH_GMS := false
+# Additional Flag.
+HORIZON_MAINTAINER := 𝕲𝖊𝖗𝖒𝖆𝖓𝖎𝖚𝖒
 
 # Recognized ROM As.
 ROM_FOLDER := horizon
